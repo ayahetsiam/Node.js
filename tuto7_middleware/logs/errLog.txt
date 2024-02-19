@@ -1,0 +1,5 @@
+15-02-2024	02:00:44	d670172a-9711-48c1-b4f7-60cca7a6d7ee	Error	Not allowed by core
+15-02-2024	02:00:46	7a7db254-59a5-45e1-9399-20c70d2c0184	Error	Not allowed by core
+15-02-2024	02:03:36	54d8fdf1-d3ab-446b-acf1-9d952d154af0	Error	Not allowed by core
+15-02-2024	02:03:37	bc4b7ef5-42a0-4dd1-8d95-1ba5ef193b03	Error	Not allowed by core
+15-02-2024	02:03:42	0a880f20-ce30-46aa-bafe-ba2802a0d0f2	Error	Not allowed by core

@@ -1,0 +1,14 @@
+11-02-2024	06:42:31	46549d03-2a88-46a5-8bf0-794dda6fd2b1	TypeError	content_type.include is not a function
+11-02-2024	06:42:35	9ac3f56e-8a61-4ae2-8c78-22922c1a06ea	TypeError	content_type.include is not a function
+11-02-2024	06:42:44	e69932ce-360d-440d-bb77-3527492c2437	TypeError	content_type.include is not a function
+11-02-2024	06:46:39	c3e5965c-f9b8-479c-affc-18d13d206beb	TypeError	content_type.include is not a function
+11-02-2024	06:46:40	4215bd79-5bc2-45bc-96f0-a2c36ecc681b	TypeError	content_type.include is not a function
+11-02-2024	06:46:41	d555d7c1-6952-4cf7-a91b-0828076626b1	TypeError	content_type.include is not a function
+11-02-2024	06:46:41	50c54a8b-6309-4378-b8bc-36b267585f6c	TypeError	content_type.include is not a function
+11-02-2024	06:46:48	fb206f65-90f5-47d4-9ad0-0e950e3493c0	TypeError	content_type.include is not a function
+11-02-2024	06:48:03	12d247eb-12a5-42cd-b7b6-283c72665e17	TypeError	filepath.include is not a function
+11-02-2024	06:48:03	f6c16323-49cc-46f5-b29f-fdbded882835	TypeError	filepath.include is not a function
+11-02-2024	06:48:04	113cdfa6-b17a-4569-ba2e-f9eb9d136aff	TypeError	filepath.include is not a function
+11-02-2024	06:49:35	465291bd-61d3-4410-9e2b-d95f36ef378f	TypeError	filepath.include is not a function
+11-02-2024	06:49:36	731f9299-6f4a-4a84-bfc2-87917f40e429	TypeError	filepath.include is not a function
+11-02-2024	06:49:37	a68e5916-156c-4150-99ab-cacd466132f4	TypeError	filepath.include is not a function

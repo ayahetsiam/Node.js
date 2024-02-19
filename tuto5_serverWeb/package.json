@@ -1,0 +1,19 @@
+{
+  "name": "serverweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logEvents.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

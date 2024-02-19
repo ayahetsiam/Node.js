@@ -1,0 +1,20 @@
+15-02-2024	02:00:44	d670172a-9711-48c1-b4f7-60cca7a6d7ee	Error	Not allowed by core
+15-02-2024	02:00:46	7a7db254-59a5-45e1-9399-20c70d2c0184	Error	Not allowed by core
+15-02-2024	02:03:36	54d8fdf1-d3ab-446b-acf1-9d952d154af0	Error	Not allowed by core
+15-02-2024	02:03:37	bc4b7ef5-42a0-4dd1-8d95-1ba5ef193b03	Error	Not allowed by core
+15-02-2024	02:03:42	0a880f20-ce30-46aa-bafe-ba2802a0d0f2	Error	Not allowed by core
+15-02-2024	02:46:45	7364777b-53b4-437a-adef-edcc3c92b145	Error	ENOENT: no such file or directory, stat 'D:\Stage\NodeJS\tuto8_routing\routes\view\subdir\index.html'
+15-02-2024	04:20:47	38182149-48f6-4003-901a-da215c6035c0	Error	Not allowed by core
+15-02-2024	04:21:30	578d6381-ab6e-40d1-a7e0-8b4fb2f02cec	Error	Not allowed by core
+15-02-2024	04:21:33	c5c573f8-37ae-42ac-8ba2-ac1228fa2496	Error	Not allowed by core
+15-02-2024	04:23:18	da6d104d-c202-4d38-a002-0c3e68c38b9f	Error	Not allowed by core
+15-02-2024	04:24:06	41a5895c-9491-4de2-9999-f8b0abb30bd7	Error	Not allowed by core
+15-02-2024	04:24:26	294f5e4d-5d8c-4543-a437-6a434f5908bf	Error	Not allowed by core
+15-02-2024	04:25:11	c8f12f4c-6729-4ace-bc03-c25f5c361019	Error	!!!
+15-02-2024	04:33:50	245ee446-1420-432a-bcc7-25172422c263	TypeError	Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+15-02-2024	06:31:11	ae75f29c-6490-4318-85ef-414ea4bf9124	TypeError	Cannot read properties of undefined (reading 'id')
+15-02-2024	06:31:27	8d5ed5cd-0e14-4d85-ac8c-0e8baa22dde7	TypeError	Cannot read properties of undefined (reading 'id')
+17-02-2024	03:02:00	2536f980-7baf-47c0-ae0c-7881d6998972	Error	ENOENT: no such file or directory, stat 'D:\Stage\NodeJS\tuto10_authentification\routes\view\index.html'

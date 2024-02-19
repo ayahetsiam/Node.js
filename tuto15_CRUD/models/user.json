@@ -1,0 +1,33 @@
+[
+  {
+    "username": "ayah",
+    "role":{
+      "admin": 5150,
+      "editor": 1984,
+      "user": 2001
+    },
+    "password": "$2b$10$SfAcKS06XdYYx3NjSmzhmuRnddDh3EV4OuLfWY0GtodjV25ariE86"
+  },
+  {
+    "username": "clarisse",
+    "role":{"admin": 5150},
+    "password": "$2b$10$4XM4UFubtxrcZAJyei0rFuXOk7WAF36QDLJHeNFEW382bd8J/EVWO"
+  },
+  {
+    "username": "clari",
+    "role":{ "user": 2001 },
+    "password": "$2b$10$moaPrdvRJgJvHtDCh45Hwes7/FjVL2Mq4Hvc0Xeaw9v4NHXZfUgGe"
+  },
+  {
+    "username": "gfhj",
+    
+    "password": "$2b$10$Lq5X9ZWbuELJZdqz21a/rOmo9Fe/iCrLqX8twbLrMX4FTAisRGNIy"
+  },
+  {
+    "username": "ama",
+    "role":{
+    "editor":1984
+  },
+    "password": "$2b$10$nKnFyeWMYgYZCZI1QoQBE.6Igf5lYcVkMIPOBrd2RpAA1L375.Npu"
+  }
+]

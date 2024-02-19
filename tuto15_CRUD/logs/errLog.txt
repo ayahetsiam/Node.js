@@ -1,0 +1,43 @@
+15-02-2024	02:00:44	d670172a-9711-48c1-b4f7-60cca7a6d7ee	Error	Not allowed by core
+15-02-2024	02:00:46	7a7db254-59a5-45e1-9399-20c70d2c0184	Error	Not allowed by core
+15-02-2024	02:03:36	54d8fdf1-d3ab-446b-acf1-9d952d154af0	Error	Not allowed by core
+15-02-2024	02:03:37	bc4b7ef5-42a0-4dd1-8d95-1ba5ef193b03	Error	Not allowed by core
+15-02-2024	02:03:42	0a880f20-ce30-46aa-bafe-ba2802a0d0f2	Error	Not allowed by core
+15-02-2024	02:46:45	7364777b-53b4-437a-adef-edcc3c92b145	Error	ENOENT: no such file or directory, stat 'D:\Stage\NodeJS\tuto8_routing\routes\view\subdir\index.html'
+15-02-2024	04:20:47	38182149-48f6-4003-901a-da215c6035c0	Error	Not allowed by core
+15-02-2024	04:21:30	578d6381-ab6e-40d1-a7e0-8b4fb2f02cec	Error	Not allowed by core
+15-02-2024	04:21:33	c5c573f8-37ae-42ac-8ba2-ac1228fa2496	Error	Not allowed by core
+15-02-2024	04:23:18	da6d104d-c202-4d38-a002-0c3e68c38b9f	Error	Not allowed by core
+15-02-2024	04:24:06	41a5895c-9491-4de2-9999-f8b0abb30bd7	Error	Not allowed by core
+15-02-2024	04:24:26	294f5e4d-5d8c-4543-a437-6a434f5908bf	Error	Not allowed by core
+15-02-2024	04:25:11	c8f12f4c-6729-4ace-bc03-c25f5c361019	Error	!!!
+15-02-2024	04:33:50	245ee446-1420-432a-bcc7-25172422c263	TypeError	Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+15-02-2024	06:31:11	ae75f29c-6490-4318-85ef-414ea4bf9124	TypeError	Cannot read properties of undefined (reading 'id')
+15-02-2024	06:31:27	8d5ed5cd-0e14-4d85-ac8c-0e8baa22dde7	TypeError	Cannot read properties of undefined (reading 'id')
+17-02-2024	03:02:00	2536f980-7baf-47c0-ae0c-7881d6998972	Error	ENOENT: no such file or directory, stat 'D:\Stage\NodeJS\tuto10_authentification\routes\view\index.html'
+18-02-2024	01:35:31	3a984773-5f4e-4e73-bc97-6ce3907f89da	ReferenceError	authorization is not defined
+18-02-2024	01:38:41	6b413996-ba70-417f-8018-4fa7ee4998b1	ReferenceError	authorization is not defined
+18-02-2024	01:41:01	6973f142-b2a6-4840-8adc-f418b0fef165	ReferenceError	authorization is not defined
+18-02-2024	02:09:14	48001332-6017-46a6-ab45-e3e1864a828e	ReferenceError	authorization is not defined
+18-02-2024	02:11:08	caa99174-9b60-4210-a12f-5a377d310cbc	ReferenceError	authorization is not defined
+18-02-2024	02:11:55	7e1b1a9b-c35c-41ff-a755-7e13d2c0fe4c	ReferenceError	authorization is not defined
+18-02-2024	02:13:06	927c12d9-23e5-4eab-8175-fd1948d3fb19	ReferenceError	authorization is not defined
+18-02-2024	02:13:07	29c6ae31-b1d4-464b-9241-56ed05b4beb3	ReferenceError	authorization is not defined
+18-02-2024	02:13:08	041025f0-be4f-4af0-b955-0a4704eab57a	ReferenceError	authorization is not defined
+18-02-2024	02:18:16	f3ec28f6-dc03-4c92-8a6f-ff881ff576cc	ReferenceError	authorization is not defined
+18-02-2024	02:18:57	6138df78-f5f2-4733-86a0-4fda6a92be4a	ReferenceError	authorization is not defined
+18-02-2024	02:18:58	8e89dac8-fe9d-4332-80fa-8c3bffaf746f	ReferenceError	authorization is not defined
+18-02-2024	02:19:09	56cc3327-a15d-421b-b0d5-c4f8150a8b0f	ReferenceError	authorization is not defined
+18-02-2024	02:19:10	f9759bab-5447-4956-961d-7da418d14824	ReferenceError	authorization is not defined
+18-02-2024	02:20:56	cc086c04-a3e1-4704-b152-bd843e4a6c3d	ReferenceError	authorization is not defined
+18-02-2024	02:21:00	fda19c77-c505-413d-8312-86bceaa51b2d	ReferenceError	authorization is not defined
+18-02-2024	02:21:15	768b7415-193f-4a96-ac6c-9bb358b34dca	ReferenceError	authorization is not defined
+18-02-2024	02:21:16	36888c50-f203-4e17-9769-7df83912974f	ReferenceError	authorization is not defined
+18-02-2024	02:21:20	3829fcab-7c8a-4054-823b-6eadd1526164	ReferenceError	authorization is not defined
+18-02-2024	02:21:28	fcb38d76-0577-4a1f-b7d4-56f43a6a206d	ReferenceError	authorization is not defined
+18-02-2024	02:22:23	c365e7e9-d825-44a3-ab2f-302f4341daf3	ReferenceError	authorization is not defined
+18-02-2024	02:22:31	fd25c2a2-cb5a-4340-a80a-91cd48e9818f	ReferenceError	authorization is not defined
+18-02-2024	02:22:32	c4a8f206-d9e6-4f08-8594-0c332e3204e1	ReferenceError	authorization is not defined
